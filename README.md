@@ -26,8 +26,8 @@
 > Predict the total of Big Mart Final Sales using Linear Regression.<br>
 
 **Reference:**  
-Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project07_BigMart_Sales/main/dataset/train.csv">Train.csv</a>  
-Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project07_BigMart_Sales/main/dataset/test.csv">Test.csv</a>  
+Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project07_BigMart_Sales/main/dataset/train.csv">Train.csv</a>  
+Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project07_BigMart_Sales/main/dataset/test.csv">Test.csv</a>  
 Demo:<a href="https://github.com/bdfd/Portfolio_Project07_BigMart_Sales/blob/main/Big_Mart_Predictino.ipynb">Jupyter Notebook/Colab Link</a>
 <br>
 
